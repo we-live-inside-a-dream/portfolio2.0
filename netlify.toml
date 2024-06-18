@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "SENTRY_AUTH_TOKEN=$SENTRY_AUTH_TOKEN npm run build"
   publish = ".next"
 
 [[redirects]]
