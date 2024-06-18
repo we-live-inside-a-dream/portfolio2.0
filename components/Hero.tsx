@@ -31,13 +31,14 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Reza, a Next.js Developer based in Canada.
+            Hi, I&apos;m Reza, a Next.js, React.js and Angular.js Developer
+            based in Canada.
           </p>
           <a href="#about">
-            <MagicButton 
-            title="Show my work" 
-            icon={<FaLocationArrow />}
-            position="right"
+            <MagicButton
+              title="Show my work"
+              icon={<FaLocationArrow />}
+              position="right"
             />
           </a>
         </div>
