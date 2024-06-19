@@ -14,7 +14,7 @@ const sentryConfig: any = {
 
   // Custom property to disable telemetry
   telemetry: false,
-
+  
   // Uncomment the line below to enable Spotlight (https://spotlightjs.com)
   // spotlight: process.env.NODE_ENV === 'development',
 };
