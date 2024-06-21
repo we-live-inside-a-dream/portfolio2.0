@@ -120,34 +120,37 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Reza was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Reza's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Reza is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Reza's expertise and dedication were instrumental to our success at Quantum Innovations. His proactive approach and keen insight into e-commerce solutions elevated our projects to new heights. Reza’s ability to seamlessly integrate complex functionalities and deliver on time made him an invaluable asset. For anyone looking to push the boundaries of digital development, Reza is the go-to professional.",
+    name: "Ali Reza",
+    title: "Director of Quantum Innovations",
+    img: "/output.svg",
   },
   {
     quote:
       "Collaborating with Reza was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Reza's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Reza is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
+    img: "/profile.svg",
   },
   {
     quote:
-      "Collaborating with Reza was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Reza's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Reza is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Reza at AE.Live was a remarkable experience. His attention to detail, quick turnaround times, and commitment to excellence were evident in every project. Reza's passion for developing cutting-edge live commentary tools made a significant impact on our team's success. For anyone looking to advance their digital projects and enrich live sports broadcasting, Reza is an outstanding choice.",
+    name: "Chandan Bhagat",
+    title: "Director of AE.Live Development Department",
+    img: "/chandan.svg",
   },
-  {
-    quote:
-      "Collaborating with Reza was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Reza's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Reza is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Reza was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Reza's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Reza is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
+  // {
+  //   quote:
+  //     "Collaborating with Reza was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Reza's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Reza is the ideal partner.",
+  //   name: "Michael Johnson",
+  //   title: "Director of AlphaStream Technologies",
+  // },
+  // {
+  //   quote:
+  //     "Collaborating with Reza was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Reza's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Reza is the ideal partner.",
+  //   name: "Michael Johnson",
+  //   title: "Director of AlphaStream Technologies",
+  // },
 ];
 
 export const companies = [
