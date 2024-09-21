@@ -31,8 +31,8 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Reza, a Full-Stack Developer skilled in Next.js, React.js,
-            Angular.js, Node.js, C#, and .NET, based in Canada.
+            Hi, I&apos;m Reza, a Full-Stack Developer skilled in Next.js,
+            React.js, Angular.js, Node.js, C#, and .NET, based in Canada.
           </p>
           <a href="#about">
             <MagicButton
