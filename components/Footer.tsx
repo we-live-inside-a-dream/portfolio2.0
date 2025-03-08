@@ -4,6 +4,7 @@ import MagicButton from "./ui/MagicButton";
 import { socialMedia } from "@/data";
 
 const Footer = () => {
+  const currentYear = new Date().getFullYear();
   return (
     <footer className="w-full mb-[100px] pb-10 md:mb-5" id="contact">
       <div className="w-full absolute left-0 -bottom-72 min-h-96">
@@ -32,7 +33,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Reza
+          Copyright © {currentYear} Reza 
         </p>
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((profile) => (
