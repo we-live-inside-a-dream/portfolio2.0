@@ -166,12 +166,12 @@ export const companies = [
     img: "/aelive.png",
     nameImg: "/aelive.png",
   },
-  // {
-  //   id: 3,
-  //   name: "HOSTINGER",
-  //   img: "/host.svg",
-  //   nameImg: "/hostName.svg",
-  // },
+  {
+    id: 3,
+    name: "Critical Mass",
+    img: "/cm-logo.png",
+    nameImg: "/cm-logo.png",
+  },
   // {
   //   id: 4,
   //   name: "stream",
