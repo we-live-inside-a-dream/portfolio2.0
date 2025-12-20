@@ -109,11 +109,12 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Weather APP",
-    des: "Developed an advanced weather app utilizing Vanilla JavaScript and SCSS, featuring real-time weather updates, detailed forecasts, and interactive user interfaces for an enhanced user experience.",
-    img: "/Screenshot 2024-06-18 at 04.54.01.png",
+    title: "Interior design APP - Flora Studio",
+    des: "A modern, responsive website developed for Flora Design Studios, built with Vanilla JavaScript and SCSS to deliver a clean, elegant user experience that reflects the studio’s architectural identity and showcases its services and projects.",
+    img: "/Screenshot 2025-12-19 at 18.30.20.png",
     iconLists: ["/logo-javascript.svg", "/scss.svg"],
-    link: "https://tranquil-muffin-f2f933.netlify.app/",
+    link: "https://www.floradesignstudios.com/",
+    // link: "https://tranquil-muffin-f2f933.netlify.app/",
   },
 ];
 
