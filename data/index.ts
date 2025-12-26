@@ -101,11 +101,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "FIFA Women'S World Cup CIS ",
-    des: "Developed a Commentary CIS tool at Ae.live using React and Material UI, providing live data to commentators for enhanced live match commentary.",
-    img: "/Screenshot 2024-04-25 at 12.36.38.png",
-    iconLists: ["/next.svg", "/mui.svg", "/ts.svg"],
-    link: "https://webcis.ae.live/login?login-return=%2Finstances",
+    title: "Silent Presence Library ",
+    des: "Full-Stack Literary E-Commerce Site Architected a dual-purpose platform that serves as both a professional showcase for writers and a functional online bookstore. Key features include a multi-user content management system for authors and translators, a secure checkout process, and a responsive UI tailored for a premium reading and browsing experience.",
+    img: "/Screenshot 2025-12-24 at 10.39.47.png",
+    iconLists: ["/logo-javascript.svg", "/scss.svg"],
+    link: "https://www.babaklotfikish.com/",
   },
   {
     id: 4,
