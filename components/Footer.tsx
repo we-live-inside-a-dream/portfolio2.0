@@ -33,7 +33,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © {currentYear} Reza 
+          Copyright © {currentYear} Reza
         </p>
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((profile) => (
@@ -49,7 +49,7 @@ const Footer = () => {
               >
                 <img
                   src={profile.img}
-                  alt={profile.id}
+                  alt={String(profile.id)}
                   width={20}
                   height={20}
                 />
