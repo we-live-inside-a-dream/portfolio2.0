@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "AI Sports Streaming Platform",
     des: "Developed HomeTeam Live AI sports streaming platform using Angular.js, providing real-time game analysis and high-quality live broadcasts.",
-    img: "/Screenshot 2024-06-18 at 03.51.10.png",
+    img: "/Screenshot 2026-04-25 at 15.12.04.png",
     iconLists: [
       "/ang.svg",
       "/scss.svg",
@@ -87,9 +87,17 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Real Estate APP",
-    des: "Created a real estate app that allows users to sign up, post properties for sale or rent, and includes a chat system enabling property owners to communicate directly with potential buyers or renters.",
-    img: "/Screenshot 2024-07-28 at 17.16.30.png",
+    title: "Murals by Kye",
+    des: "A modern, image-heavy artist portfolio optimized for performance and visual impact. Designed to bridge the gap between physical artistry and digital presence with a clean, architected layout and streamlined contact flow.",
+    img: "/Screenshot 2026-04-25 at 15.17.39.png",
+    iconLists: ["/logo-javascript.svg", "/scss.svg"],
+    link: "https://www.muralsbykye.com/",
+  },
+  {
+    id: 3,
+    title: "Silent Presence Library ",
+    des: "Full-Stack Literary E-Commerce Site Architected a dual-purpose platform that serves as both a professional showcase for writers and a functional online bookstore. Key features include a multi-user content management system for authors and translators, a secure checkout process, and a responsive UI tailored for a premium reading and browsing experience.",
+    img: "/Screenshot 2025-12-24 at 10.39.47.png",
     iconLists: [
       "re.svg",
       "/mui.svg",
@@ -97,15 +105,7 @@ export const projects = [
       "/node-js.svg",
       "/socket-io.svg",
     ],
-    link: "http://real-estate-app.rezanaeim.com/",
-  },
-  {
-    id: 3,
-    title: "Silent Presence Library ",
-    des: "Full-Stack Literary E-Commerce Site Architected a dual-purpose platform that serves as both a professional showcase for writers and a functional online bookstore. Key features include a multi-user content management system for authors and translators, a secure checkout process, and a responsive UI tailored for a premium reading and browsing experience.",
-    img: "/Screenshot 2025-12-24 at 10.39.47.png",
-    iconLists: ["/logo-javascript.svg", "/scss.svg"],
-    link: "https://www.babaklotfikish.com/",
+    link: "https://www.silentpresencelibrary.com/",
   },
   {
     id: 4,

@@ -34,7 +34,7 @@ const Hero = () => {
             Hi, I&apos;m Reza, a Full-Stack Developer skilled in Next.js,
             React.js, Angular.js, Node.js, C#, and .NET, based in Canada.
           </p>
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
