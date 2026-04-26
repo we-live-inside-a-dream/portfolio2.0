@@ -97,7 +97,7 @@ export const projects = [
     id: 3,
     title: "Silent Presence Library ",
     des: "Full-Stack Literary E-Commerce Site Architected a dual-purpose platform that serves as both a professional showcase for writers and a functional online bookstore. Key features include a multi-user content management system for authors and translators, a secure checkout process, and a responsive UI tailored for a premium reading and browsing experience.",
-    img: "/Screenshot 2025-12-24 at 10.39.47.png",
+    img: "/Screenshot 2026-04-25 at 17.59.48.png",
     iconLists: [
       "re.svg",
       "/mui.svg",
